@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "puppeteer": "^22.3.0"
+  },
+  "name": "botv1tromm",
+  "version": "1.0.0",
+  "description": "bot for notification available vip rustinity",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tromeuss/Bot_rustinity.git"
+  },
+  "author": "Tromm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tromeuss/Bot_rustinity/issues"
+  },
+  "homepage": "https://github.com/Tromeuss/Bot_rustinity#readme"
+}
